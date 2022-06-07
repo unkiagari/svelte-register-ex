@@ -1,0 +1,19 @@
+{
+  "name": "svelte-register-ex",
+  "version": "0.0.1",
+  "description": "svelte/register + typescript + scss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esbuild": "^0.14.42",
+    "sass": "^1.52.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unkiagari/svelte-register-ex.git"
+  }
+}
